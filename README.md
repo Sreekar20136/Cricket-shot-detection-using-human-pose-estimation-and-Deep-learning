@@ -1,9 +1,9 @@
 1. The main objective of this project is to  create a robust model for cricket shot detection using human pose estimation 
 2. The dataset used consists of four cricket shot types with 900 images for each shot type
-  1. Pull 
-  2. Drives
-  3. Legglance flick
-  4. Sweep
+      1. Pull
+      2. Drives
+      3. Legglance flick
+      4. Sweep
 3. Data preprocessing
    1. Removed noisy images
    2. Resizing all images to a specific size
