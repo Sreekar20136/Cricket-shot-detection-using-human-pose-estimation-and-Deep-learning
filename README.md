@@ -16,4 +16,9 @@
 10. The custom deep learning model created conists of dense layer with 256 units followed by a dropout  layer and dense layer again followed softmax layer for detecting the cricket shot
 11. This hybrid model performed excpectionally well by acheibing a train accuracy of validation accuracy of 96.7 and test accuracy of 94.14
 
+![Accuracy graph](Results/Accuracy.png)
+![Loss graph](Results/Loss.png)
+![Confusion matrix](Results/Confusion matrix.png)
+   
+
    
